@@ -1,0 +1,2 @@
+
+streamlit run "E:\Projects\Diseases Prediction\Multiple Diseases Prediction.py"
